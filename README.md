@@ -8,3 +8,7 @@ Contact Options:
 1- Email: salwa.shaglel@student.uni-siegen.de
 
 2- Twitter: @starXsally
+
+
+
+![alt text](https://github.com/SalwaShaglel/Master-Thesis/blob/main/Poster.jpg)
